@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Parkside Villa</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Where you belong</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="food">Food</string>
+    <string name="breakfirst">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="supper">Supper</string>
+    <string name="dinner">Dinner</string>
+    <string name="accomondation">Accommodation</string>
+    <string name="one_bedroom">One Bedroom</string>
+    <string name="two_bedroom">Two Bedroom</string>
+    <string name="three_bedroom">Three Bedroom</string>
+    <string name="special_Activities">Special Activities</string>
+    <string name="meetings">Meeting</string>
+    <string name="birthday">Birthdays</string>
+    <string name="come_together">Come Together</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- card view information -->
+    <string name="title_food">Burger</string>
+    <string name="availability_food">Available</string>
+    <string name="cost_food">300/=</string>
+</resources>

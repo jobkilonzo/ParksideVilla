@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/food">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="@string/breakfirst"
+                    android:id="@+id/breakfirst"/>
+                <item
+                    android:title="@string/lunch"
+                    android:id="@+id/lunch"/>
+                <item
+                    android:title="@string/supper"
+                    android:id="@+id/supper"/>
+                <item
+                    android:id="@+id/dinner"
+                    android:title="@string/dinner"
+                    />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/accomondation">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="@string/one_bedroom"
+                    android:id="@+id/one_beedrom"/>
+                <item
+                    android:title="@string/two_bedroom"
+                    android:id="@+id/two_bedroom"/>
+                <item
+                    android:title="@string/three_bedroom"
+                    android:id="@+id/three_beedroom"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/special_Activities">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="@string/meetings"
+                    android:id="@+id/meeting"/>
+                <item
+                    android:title="@string/birthday"
+                    android:id="@+id/birthday"/>
+                <item
+                    android:title="@string/come_together"
+                    android:id="@+id/come_together"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
